@@ -3,7 +3,7 @@
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
 模板与完整下载: https://motiongit.com/@adunext/template-02-expanded-portrait
-版本: 2.7.18-alpha.5
+版本: 2.7.18-alpha.7
 下载已开放，当前许可见模板页面与下载包。
 
 ## 技术资料
