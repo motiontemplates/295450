@@ -3,8 +3,8 @@
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
 Template & full download: https://motiongit.com/@adunext/template-02-expanded-portrait
-Version: 2.7.18-alpha.8
-Download available; current terms are listed with the package.
+Version: 2.7.18-alpha.9
+Demo available; template download coming soon.
 
 ## Technical reference
 
